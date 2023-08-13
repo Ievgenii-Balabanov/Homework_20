@@ -1,6 +1,6 @@
-# Django Blog
+# DRF Blog
 
-This is practical homework
+Homework_20
 
 ## Overview
 
