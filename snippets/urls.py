@@ -17,6 +17,7 @@
 #     }
 # )
 
+
 # user_list = UserViewSet.as_view({"get": "list"})
 # user_detail = UserViewSet.as_view({"get": "retrieve"})
 #
